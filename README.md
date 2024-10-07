@@ -1,4 +1,4 @@
-# Smith clan Secret Recipes
+# Smith clan Mysterious Recipes
 
 Set of recipes as given by my grandma. 
 
