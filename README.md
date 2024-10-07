@@ -1,4 +1,4 @@
-# Smith Family Secret Recipes
+# Smith Family Mysterious Recipes
 
 Set of recipes as given by my grandma. 
 
